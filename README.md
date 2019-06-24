@@ -52,3 +52,4 @@ Do check the sample_image folder to see how model learns.
 *   GAN original paper by Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
     Sherjil Ozair, Aaron Courville, Yoshua Bengio
 *   en.wikipedia.org
+*   tensorflow.org
