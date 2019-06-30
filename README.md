@@ -27,6 +27,13 @@ with the input MNIST dataset images.
 The discriminator distinguish between the real images and the generated fake images. Its input is a 32x32 image and output is
 its probability of being real.
 
+## Sample Images
+
+![alt text](https://github.com/aashishrai3799/Handwritten-digit-generation-using-DCGAN/blob/master/sample_images/fig112500.png)
+![alt text](https://github.com/aashishrai3799/Handwritten-digit-generation-using-DCGAN/blob/master/sample_images/fig125000.png)
+![alt text](https://github.com/aashishrai3799/Handwritten-digit-generation-using-DCGAN/blob/master/sample_images/fig190000.png)
+![alt text](https://github.com/aashishrai3799/Handwritten-digit-generation-using-DCGAN/blob/master/sample_images/fig199900.png)
+
 #### Enviromnent: Python 3.7
 
 # Required Libraries:
